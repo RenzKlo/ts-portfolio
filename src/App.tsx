@@ -4,11 +4,11 @@ import { Button } from "@/components/ui/button"
 
 import TechStack from "./tech-stack"
 
-import {
-  Card,
-  CardContent,
+// import {
+//   Card,
+//   CardContent,
 
-} from "@/components/ui/card"
+// } from "@/components/ui/card"
 // import {
 //   Carousel,
 //   CarouselContent,
@@ -173,7 +173,7 @@ function App() {
         <section className=" flex-col min-h-screen">
           <h1 className="text-foreground text-8xl text-end mr-60 mb-10 font-bold">skills</h1>
           <div className="flex-wrap justify-center space-x-3 items-start h-screen px-48">
-            
+
             {/* <Card className="w-45 h-30 items-center">
               <CardContent>
                 <h2 className="text-2xl font-bold mb-4">Mobile Development</h2>
